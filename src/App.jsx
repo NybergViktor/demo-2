@@ -6,7 +6,7 @@ function App() {
       <h1>GitHub Actions Demo</h1>
       <p>
         Om du ser denna sida betyder det att GitHub Actions deployade sidan
-        framgångsrikt!
+        framgångsrikt! :happy
       </p>
     </div>
   );
